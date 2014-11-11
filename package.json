@@ -1,0 +1,19 @@
+{
+  "name": "sa-plugin-events-versions",
+  "version": "0.1.0",
+  "description": "scaleApp plugin. Add ability to manage and check events versions.",
+  "author": "Makeev Vitaliy <w.makeev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmakeev/sa-plugin-events-versions"
+  },
+  "keywords": [
+    "scaleApp",
+    "events",
+    "versioning",
+    "plugin"
+  ],
+  "dependencies": {
+    "semver": "4.1.0"
+  }
+}
