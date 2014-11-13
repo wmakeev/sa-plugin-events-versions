@@ -15,5 +15,9 @@
   ],
   "dependencies": {
     "semver": "4.1.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "scaleapp": "^0.4.4"
   }
 }
